@@ -264,7 +264,10 @@ overflow: hidden;
       text-align: center;
       font-family: 'Rubik', sans-serif;
   }
-  
+  .none
+  {
+    display: none;
+  }
   button.info{
     background-color: hsl(231, 69%, 60%);
     padding: 10px 10px;
@@ -534,6 +537,10 @@ p{
 .container-Asked{
   text-align: center;
   font-family: 'Rubik', sans-serif;
+}
+.none
+{
+  display: none;
 }
 .pregunta {
   display: flex;

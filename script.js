@@ -98,7 +98,7 @@ let desplegar1 = document.getElementById("desplegar1")
 desplegar1.addEventListener("click",function(){
   let container1 = document.getElementById("container1")
     container1.classList.toggle("none")
-    console.log(container1.classList.toggle("none"))
+    
 
 })
 
